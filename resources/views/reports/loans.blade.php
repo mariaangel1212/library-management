@@ -5,8 +5,8 @@
     <div class="mb-6">
         <ul>
             <li>Nama : Maria Angelina Handoko</li>
-            <li>Kelas : Maria Angelina Handoko</li>
-            <li>Matakuliah : Maria Angelina Handoko</li>
+            <li>Kelas : SI 501 </li>
+            <li>NIM : 230101010108</li>
         </ul>
     </div>
     <!-- Filter -->
